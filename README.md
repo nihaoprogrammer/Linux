@@ -7,5 +7,8 @@ $google-chrome & --enable-easy-off-store-extension-install
 
 # Manjaro
 
+FAQ:
+* different between 'zsh' and bash
+> zsh >= bash
 * How to fix “unable to lock database” error in Arch linux
 >$ rm /var/lib/pacman/db.lck

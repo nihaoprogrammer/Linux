@@ -18,7 +18,8 @@ FAQ:
 >[device]  
 wifi.scan-rand-mac-address=no  
 
->systemctl restart NetworkManager
+>systemctl restart NetworkManager  
+
 *基本配置
 >[Manjaro安装与基本配置](https://my.oschina.net/langxSpirit/blog/1647000)   
 >[Manjaro 上手使用简明教程](https://wenqixiang.com/manjaro-guide/)

@@ -23,3 +23,7 @@ wifi.scan-rand-mac-address=no
 *基本配置
 >[Manjaro安装与基本配置](https://my.oschina.net/langxSpirit/blog/1647000)   
 >[Manjaro 上手使用简明教程](https://wenqixiang.com/manjaro-guide/)
+* 美化  
+>[Manjaro Linux下炫酷zsh的安装配置（powerline必不可少）](https://www.lulinux.com/archives/1306)  
+>[powerline-shell](https://github.com/b-ryan/powerline-shell)  
+>[简单的manjaro安装powerline及vim zsh配置](https://blog.csdn.net/z924139546/article/details/79815788)  

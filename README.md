@@ -16,9 +16,6 @@ FAQ:
 >$ rm /var/lib/pacman/db.lck
 * Manjaro Deepin连不上无线网
 >sudo nano /etc/NetworkManager/NetworkManager.conf  
-复制下面内容，回车
->[device]  
-wifi.scan-rand-mac-address=no  
 
 >systemctl restart NetworkManager  
 * 挂载硬盘

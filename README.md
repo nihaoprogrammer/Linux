@@ -28,4 +28,4 @@ FAQ(常见问题汇总):
 >[Manjaro Linux下炫酷zsh的安装配置（powerline必不可少）](https://www.lulinux.com/archives/1306)  
 >[powerline-shell](https://github.com/b-ryan/powerline-shell)  
 >[简单的manjaro安装powerline及vim zsh配置](https://blog.csdn.net/z924139546/article/details/79815788)  
-
+>[linux 服务器之间拷贝文件](https://blog.csdn.net/java_min/article/details/8591516)

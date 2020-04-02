@@ -1,5 +1,4 @@
-# Linux
-Linux折腾记
+# Linux折腾记
 
 # Manjaro
 *U盘启动

@@ -1,11 +1,11 @@
 # Linux折腾记
 
 # Manjaro
-*U盘启动
+* U盘启动
 >F7-->Security-->Secure Boot Control(Disabled)-->Boot-->CSM Support(Enabled)-->F10
 >安装后重启的时候把U拔掉。
 
-*Google浏览器安装SwitchyOmega不能添加：  
+* Google浏览器安装SwitchyOmega不能添加：  
 >在命令行执行  
 $google-chrome & --enable-easy-off-store-extension-install  
 
@@ -20,7 +20,7 @@ FAQ(常见问题汇总):
 >systemctl restart NetworkManager  
 * 挂载硬盘
 [Manjaro(linux)下挂载硬盘](https://www.jianshu.com/p/0098ee403e77)  
-*基本配置
+* 基本配置
 >[Manjaro安装与基本配置](https://my.oschina.net/langxSpirit/blog/1647000)   
 >[Manjaro 上手使用简明教程](https://wenqixiang.com/manjaro-guide/)
 * 美化  

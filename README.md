@@ -1,6 +1,6 @@
 # Linux折腾记
 
-# Manjaro
+## Manjaro的安装与配置
 * U盘启动
 >F7-->Security-->Secure Boot Control(Disabled)-->Boot-->CSM Support(Enabled)-->F10
 >安装后重启的时候把U拔掉。
